@@ -1,3 +1,3 @@
 # Autonomous-Driving
 
-Identify the angle in which needs to turn depending upon the lane.
+Identify the angle in which car needs to turn depending upon the lane.
